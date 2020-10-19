@@ -1,6 +1,6 @@
 WD RESOLUSI IN FUTURE
 - FULL STACK developer
 - menguasai semua bahasa pemrogramman
-- kustomisasi dan setup WEB
+- mengembangkan WEB 
 - bermanfaat bagi makhluk hidup
 - mencari pengalaman di komunitas
