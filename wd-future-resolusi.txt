@@ -1,6 +1,6 @@
 WD RESOLUSI IN FUTURE
 - FULL STACK developer
-  FrontEND - BackEND - DevOPS
+  FrontEND - BackEND 
 - menguasai semua bahasa pemrogramman
   Java, Python, C++
 - mengembangkan WEB 
